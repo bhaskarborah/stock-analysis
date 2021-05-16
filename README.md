@@ -80,7 +80,8 @@ The time required to execute the 2017 process using the old code is as below:
 
 
 The time required to execute the 2017 process using the refactored code is as below:
-![Screen Shot 2021-05-15 at 8.26.45 PM](https://i.imgur.com/Uhu7rBH.png)
+
+![Screen Shot 2021-05-16 at 2.38.19 PM](https://i.imgur.com/Ixv4vBe.png)
 
 The timings have improved after using the refactored code.
 
@@ -88,7 +89,7 @@ The time required to execute the 2018 process using the old code is as below:
 ![Screen Shot 2021-05-15 at 8.28.07 PM](https://i.imgur.com/uKsU06N.png)
 
 The time required to execute the 2018 process using the refactored code is as below:
-![Screen Shot 2021-05-15 at 8.30.35 PM](https://i.imgur.com/uS783Q5.png)
+![Screen Shot 2021-05-16 at 2.39.19 PM](https://i.imgur.com/ndykrll.png)
 
 The timings have improved after using the refactored code.
 
